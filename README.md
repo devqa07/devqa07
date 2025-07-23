@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_sb" target="blank"><img src="https://img.shields.io/twitter/follow/dev_sb?logo=twitter&style=for-the-badge" alt="dev_sb" /></a> </p>
 
-- 🔭 I’m currently working on **Rest Assured, Playwright, IoT, GitHub Actions, Docker**
+- 🔭 I’m currently working on **Rest Assured, Maestro Mobile Automation, Playwright, AI Tools & Frameworks, GitHub Actions, Docker**
 
 - 🌱 I’m currently learning **Testing AI models and AI automation**
 
