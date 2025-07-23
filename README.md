@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devendra Singh</h1>
 <h3 align="center">A dedicated QA Engineer with a passion for software excellence, based in Dubai.</h3>
 
-<p align="left"> <a href="https://twitter.com/dev_sb" target="blank"><img src="https://img.shields.io/twitter/follow/dev_sb?logo=twitter&style=for-the-badge" alt="dev_sb" /></a> </p>
+<p align="left">
+  <a href="https://linkedin.com/in/devendra-singh-quality-engineering" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Rest Assured, Maestro Mobile Automation, Playwright, AI Tools & Frameworks, GitHub Actions, Docker**
 
@@ -15,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_sb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devendra-singh-quality-engineering" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra-singh-quality-engineering" height="30" width="40" /></a>
 <a href="https://instagram.com/devvbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devvbisht" height="30" width="40" /></a>
 <a href="https://medium.com/@devendrab.0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devendrab.0704" height="30" width="40" /></a>
