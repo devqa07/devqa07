@@ -13,7 +13,6 @@ Hello there! I’m **Devendra Singh**, a passionate **QA Automation Engineer** b
 - 💬 Ask me about **software testing**, **test automation**, and **framework design**
 - 📫 How to reach me: **devendrab.0704@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: When I’m not deep in testing and automation, I’m either catching the latest movies or playing outdoor games.
 
 ---
 
