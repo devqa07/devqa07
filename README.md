@@ -6,7 +6,7 @@ Hello there! I’m **Devendra Singh**, a passionate **QA Automation Engineer** b
 
 ## About Me 📖
 
-- 🔭 I’m currently working on **Rest Assured**, **Maestro Mobile Automation**, **Playwright**, **AI Tools & Frameworks**, **GitHub Actions**, **Docker**
+- 🔭 I’m currently working on **Playwright**, **Pytest**, **MCP**, **Rest Assured**, **Maestro Mobile Automation**, **AI Tools & Frameworks**, **GitHub Actions**, **Docker**
 - 🌱 I’m currently learning **Testing AI models** and **AI‑driven automation**
 - 👯 I’m looking to collaborate on open‑source projects related to **software testing** and **QA automation frameworks**
 - 🤔 I’m looking for help with **advanced AI‑driven testing strategies** and **observability**
@@ -22,7 +22,7 @@ Hello there! I’m **Devendra Singh**, a passionate **QA Automation Engineer** b
 Java • Python • JavaScript • TypeScript • Scala • Groovy  
 
 **Frameworks & Libraries:**  
-Rest Assured • TestNG • Playwright • Maestro • Appium • Selenium • Pytest • Gatling • JMeter • Spring Boot  
+Rest Assured • TestNG • Playwright • Maestro • Appium • Selenium • Pytest • requests • Gatling • JMeter • Spring Boot  
 
 **Tools:**  
 Docker • Kubernetes • GitHub Actions • Jenkins • Grafana • Kibana • Figma • Datadog • Postman 
